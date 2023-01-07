@@ -7,7 +7,7 @@
   "repository": "https://github.com/Bebeau/init",
   "author": "Kyle Bebeau",
   "dependencies": {
-    "concurrently": "^4.1.0",
+    "concurrently": "^7.6.0",
     "eslint": "^8.31.0",
     "express": "^4.16.4",
     "nodemon": "^2.0.12",
