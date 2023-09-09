@@ -1,2 +1,2 @@
 # Website
-The public (https://cltdev.com)[https://cltdev.com] website.
+The public portfolio service website for [CLT dev](https://cltdev.com).
